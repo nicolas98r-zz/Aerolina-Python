@@ -1,7 +1,3 @@
-# ---------------Clase Vuelo ------------
-# Diego Alejandro Tellez - 20162020015
-# Edwin Alejandro Fiesco - 20182020108
-# Nicolas Ramírez Manrique – 20162020033
 class Vuelo:
     def __init__(self, fecha, hora, minutos, ID, lugar_partida, lugar_destino):
         self.capacidad = 16 * 6
